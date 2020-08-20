@@ -1,4 +1,4 @@
-# annotate_them_all_brainstorming
+# Annotate Them All  eLife Sprint 2020
 A repository for brainstorming and prototyping ideas related to the eLifeSprint project Annotate them all (https://sprint.elifesciences.org/annotate-them-all/) 
 
 
@@ -54,6 +54,7 @@ Some notable examples:
 
 * PomBase (a base of information related to Schizosaccharomyces pombe) has a wonderful system for annotation articles to a set of OBO ontologies: https://github.com/pombase/canto
 * UniProt has a community curation branch, which is under active development (http://insideuniprot.blogspot.com/2019/07/)
+* Mark2Cure was a project with goals really similar to the Annotate Them All project, with some very nice publications (https://mark2cure.org/blog/thank-you-campaign-pause/  and their GitHub https://github.com/SuLab/mark2cure/issues)
 
 
 "Annotate them all" can be useful for these (and similar) projects, by providing coarse, community annotations for the dedicated, expert curator teams of bases such as UniProt and PomBase. There can be even other benefits of joining forces that are not immediately clear, and that only makes it even more important to join forces!
