@@ -5,6 +5,6 @@
 * Adding an issue? Please mark it with labels. 
 * Making a commit? Take a quick look at [this post](https://chris.beams.io/posts/git-commit/) on how to write a good commit message :)
 
-For code in Python, let's try and follow [PEP8](https://www.datacamp.com/community/tutorials/pep8-tutorial-python-code) standards. 
+For code in Python, let's try and follow [PEP8](https://pybit.es/pep8.html) standards. 
 
 At this stage, everything is a prototype, so feel free to make pull requests and commit directly to the master branch. 
