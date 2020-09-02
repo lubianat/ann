@@ -1,0 +1,3 @@
+[submodule "shiny_app/dynamicContent"]
+	path = shiny_app/dynamicContent
+	url = git@github.com:lubianat/dynamicContent.git
